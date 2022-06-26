@@ -8,7 +8,7 @@ At any linux system, clone this repository, enter it and execute the main.sh scr
 1- git clone https://github.com/invalidrandom/multiDoS
 2- cd multiDoS && cd multiDoS
 3- chmod +x *
-4- ./main.sh
+4- ./Main.sh
 
 # Tool purpose
 
