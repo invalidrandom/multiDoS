@@ -5,10 +5,10 @@ Multi-DoS tool for UDP flooding, MAC De-authentication and Ping of Death.
 
 At any linux system, clone this repository, enter it and execute the main.sh script. Follow the instructions bellow:
 
-1- git clone https://github.com/invalidrandom/multiDoS
-2- cd multiDoS && cd multiDoS
-3- chmod +x *
-4- ./Main.sh
+-git clone https://github.com/invalidrandom/multiDoS
+-cd multiDoS && cd multiDoS
+-chmod +x *
+-./Main.sh
 
 # Tool purpose
 
