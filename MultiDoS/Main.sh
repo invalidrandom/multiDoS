@@ -29,6 +29,7 @@ echo -e "\e[35mAuthor:  Invalid Random 			 #\e[0m"
 echo -e "\e[35mTwitter: twitter.com/Invalid_Random	   	 #\e[0m"
 echo -e "\e[35mDiscord: Invalid#4370			  	 #\e[0m"
 echo -e "\e[35mGithub:	github.com/invalidrandom		 #\e[0m"
+echo -e "\e[35mWebsite: theinvalidrandom.web.app		 #\e[0m"
 echo -e "\e[35m##################################################\e[0m"
 echo
 
